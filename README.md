@@ -4,3 +4,6 @@
 
 ![image-20200730205840440](https://gitee.com/wormbird/img4md/raw/master/imgs/image-20200730205840440.png)
 
+1. [初识python](01.初识python.md)
+2. 
+
